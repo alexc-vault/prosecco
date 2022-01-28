@@ -7,7 +7,7 @@
   - [Amazon](https://www.amazon.co.uk/Youmile-Darlington-Bipolar-Transistor-Resistors/dp/B08219LWK3/ref=sr_1_5?crid=3N48N4B1OLX7Y&keywords=tip+120+transistor&qid=1643370357&sprefix=tip+120%2Caps%2C93&sr=8-5)
 - 1kΩ Resistor
   - [Amazon](https://www.amazon.co.uk/1K-Resistors-50-Pack-Electronics/dp/B00JGUE0L0/ref=sr_1_5?crid=1K3D20RCALIKZ&keywords=1k+resistor&qid=1643370389&sprefix=1k+res%2Caps%2C105&sr=8-5)
-- Sillicon Diode
+- 1N4004 Sillicon Diode
   - [Amazon](https://www.amazon.co.uk/Projects-General-Purpose-Silicon-Rectifiers/dp/B08JQPP56P/ref=sr_1_6?crid=H6XA2FHEAO2P&keywords=1n4004&qid=1643370430&sprefix=1n4004%2Caps%2C96&sr=8-6)
 - 4.5v Solenoid - Linear Actuator
   - [Amazon](https://www.amazon.co.uk/Solenoid-Electromagnet-Saim-Actuator-Linear/dp/B079JWM5Q7/ref=sr_1_5?crid=J5JBUHMH55IZ&keywords=4.5v+solenoid&qid=1643370196&sprefix=4.5v+solenoid%2Caps%2C103&sr=8-5)
